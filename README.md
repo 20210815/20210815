@@ -14,13 +14,14 @@
 ##### Backend
 - <a href="https://github.com/20210815/diARy_server">2023 한이음 : ICT 멘토링</a> | **diARy** | AR기반 공간에 기록하는 나의 여행 노트
 - <a href="https://github.com/20210815/2023-Herethon-5">2023 여기톤 : HERETHON</a> | **Let's make Mandalart**
-- <a href="https://github.com/20210815/HealthBridge">2023 멋쟁이사자처럼 중앙 해커톤</a> | **HealthBridge**
+- <a href="https://github.com/20210815/HealthBridge">2023 멋쟁이사자처럼 중앙 해커톤</a> | **HealthBridge** | 건강검진 진단 조언
 - <a href="https://github.com/20210815/2023-CodeWithDS-03.git">2023 덕성여자대학교 제2회 연합 해커톤 CodeWithDuksung</a> | **DukXi** | 안전한 귀갓길
 - <a href="https://github.com/20210815/TogetherSeoul_back-end.git">2023-2 소프트웨어공학</a> | **TogetherSeoul** | 여행길 동행자 구하기
 - <a href="https://github.com/20210815/2024-BABYLION-Backend.git">2024 덕성여자대학교 멋쟁이사자처럼 12기 합격자 조회</a> | **LikeLionDS**
 - <a href="https://github.com/20210815/DSFest_BE.git">2024 덕성여자대학교 근화제 "찬란"</a> | **찬란**
 - <a href="https://github.com/20210815/re_to_back_test.git">2024 여자화장실 리뷰 프로젝트</a> | **Afterglow**
 - <a href="https://github.com/20210815/GBFH_BE.git">2024 경기푸른미래관 어플리케이션 개발</a> | **구구단**
+- <a href="https://github.com/20210815/GBFH_BE.git">2024 멋쟁이사자처럼 중앙 해커톤</a> | **poksin** | 데이트 폭력 증거 수집
 
 <br>
 
