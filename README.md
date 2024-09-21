@@ -13,6 +13,7 @@
 
 ## 💻 Project
 ##### Backend
+- <> 멋쟁이사자처럼 토이 프로젝트
 - <a href="https://github.com/20210815/diARy_server">2023 한이음 : ICT 멘토링</a> | **diARy** | AR기반 공간에 기록하는 나의 여행 노트
 - <a href="https://github.com/20210815/2023-Herethon-5">2023 여기톤 : HERETHON</a> | **Let's make Mandalart**
 - <a href="https://github.com/20210815/HealthBridge">2023 멋쟁이사자처럼 중앙 해커톤</a> | **HealthBridge** | 건강검진 진단 조언
