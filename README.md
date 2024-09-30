@@ -1,6 +1,7 @@
 
 ## 📒 Introduction
 #### 📌 덕성여자대학교 컴퓨터공학전공 이규민
+#### 👩‍🏫 2023-2 C언어 튜터 
 <br>
 
 ## 💭 Club
@@ -10,6 +11,8 @@
 - 2024 멋쟁이사자차럼 여기톤 총무팀
 - 2024 구름톤 유니브 3기 미르미 (BE)
 <br>
+
+
 
 ## 💻 Project
 ##### Backend
@@ -23,7 +26,7 @@
 - <a href="https://github.com/20210815/DSFest_BE.git">2024 덕성여자대학교 근화제 "찬란"</a> | **찬란**
 - <a href="https://github.com/20210815/re_to_back_test.git">2024 여자화장실 리뷰 프로젝트</a> | **Afterglow**
 - <a href="https://github.com/20210815/GBFH_BE.git">2024 경기푸른미래관 어플리케이션 개발</a> | **구구단**
-- <a href="https://github.com/TeamViewMore">2024 멋쟁이사자처럼 중앙 해커톤 Poksin</a> | **poksin** | 데이트 폭력 증거 수집 | AI Server | 2024 어흥콘 참신상 대상, 베스트 회고상
+- <a href="https://github.com/TeamViewMore">2024 멋쟁이사자처럼 중앙 해커톤 Poksin</a> | **poksin** | 데이트 폭력 증거 수집 | AI Server | 2024 어흥콘 참신상 대상, 베스트 회고상 🏆
 
 <br>
 
