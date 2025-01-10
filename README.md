@@ -28,6 +28,7 @@
 - <a href="https://github.com/20210815/GBFH_BE.git">2024 경기푸른미래관 어플리케이션 개발</a> | **구구단**
 - <a href="https://github.com/TeamViewMore">2024 멋쟁이사자처럼 중앙 해커톤 Poksin</a> | **poksin** | 데이트 폭력 증거 수집 | AI Server | 2024 어흥콘 참신상 대상, 베스트 회고상 🏆
 - <a href="https://github.com/Fortran-Pothole">2024 졸업 프로젝트 FORTRAN</a> | **FORTRAN** | AI를 통한 포트홀 검출과 사고 예방을 위한 시스템 | AI Server, Raspberry Pi, Web-socket | ICT 이브와 은상 🏆 | 한국정보처리학회 ACK 2024 정보처리학회논문지 논문 개제
+- <a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_43_BC">[kakao x goorm] 2024 단풍톤 Carely BlockChain</a> | <a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_43_BE">[kakao x goorm] 2024 단풍톤 Carely BE</a> | **Carely** | AI를 통한 포트홀 검출과 사고 예방을 위한 시스템 | BE, Blockchain | [kakao x goorm] 2024 단풍톤 본선 진출
 
 <br>
 
