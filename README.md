@@ -71,4 +71,3 @@
 
 ## 💬 Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20210815&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20210815&layout=compact&theme=buefy)
