@@ -16,8 +16,9 @@
 
 ## 💻 Project
 ##### Backend
-- <a href="https://github.com/team-beatbuddy/backend"> 국내 음악 베뉴 큐레이션 및 컨시어지 서비스</a> | BeatBuddy | BE
+- <a href="https://github.com/team-beatbuddy/backend"> 2025 국내 음악 베뉴 큐레이션 및 컨시어지 서비스</a> | BeatBuddy | BE
 - <a href="https://github.com/tocatdog/backend"> 2025 tocatdog 유기동물 입양 활성화를 위한 AI 기반 매칭 플랫폼</a> | 2025 생성형 AI · 공공데이터 창업경진대회 | BE
+- <a href="https://github.com/animal-diary/backend"> 2025 수의사와 함께 만드는 동물 건강 기록 앱 | BE
 - <a href="https://github.com/GBFH-APP/REAL_BE">2024 경기푸른미래관 어플리케이션 개발</a> | **구구단** | PO, BE
 - <a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_43_BC">[kakao x goorm] 2024 단풍톤 Carely BlockChain</a> | <a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_43_BE">[kakao x goorm] 2024 단풍톤 Carely BE</a> | **Carely** | 관계를 통해 간병인의 정신적 스트레스 완화와 간병 생활의 효율성을 높이기 위한 서비스 | BE, Blockchain | [kakao x goorm] 2024 단풍톤 본선 진출
 - <a href="https://github.com/Fortran-Pothole">2024 졸업 프로젝트 FORTRAN</a> | **FORTRAN** | AI를 통한 포트홀 검출과 사고 예방을 위한 시스템 | AI Server, Raspberry Pi, Web-socket | ICT 이브와 은상 🏆 | 한국정보처리학회 ACK 2024 정보처리학회논문지 논문 개제
