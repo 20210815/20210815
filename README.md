@@ -7,29 +7,30 @@
 
 ## 💭 Club
 #### 📌 Backend
-- 2023 멋쟁이사자차럼 11기 아기사자 (BE)
-- 2024 멋쟁이사자차럼 12기 부대표, 교육팀장 (BE)
-- 2024 멋쟁이사자차럼 여기톤 총무팀
-- 2024 구름톤 유니브 3기 미르미 (BE)
 - 2025 구름톤 유니브 4기 중앙 운영단 (총무)
+- 2024 구름톤 유니브 3기 미르미 (BE)
+- 2024 멋쟁이사자처럼 여기톤 총무팀
+- 2024 멋쟁이사자처럼 12기 부대표, 교육팀장 (BE)
+- 2023 멋쟁이사자처럼 11기 아기사자 (BE)
 <br>
-
-
 
 ## 💻 Project
 ##### Backend
-- <a href="https://github.com/20210815/diARy_server">2023 한이음 : ICT 멘토링</a> | **diARy** | AR기반 공간에 기록하는 나의 여행 노트
-- <a href="https://github.com/20210815/2023-Herethon-5">2023 여기톤 : HERETHON</a> | **Let's make Mandalart**
-- <a href="https://github.com/20210815/HealthBridge">2023 멋쟁이사자처럼 중앙 해커톤</a> | **HealthBridge** | 건강검진 진단 조언
-- <a href="https://github.com/20210815/2023-CodeWithDS-03.git">2023 덕성여자대학교 제2회 연합 해커톤 CodeWithDuksung</a> | **DukXi** | 안전한 귀갓길
-- <a href="https://github.com/20210815/TogetherSeoul_back-end.git">2023-2 소프트웨어공학</a> | **TogetherSeoul** | 여행길 동행자 구하기
-- <a href="https://github.com/20210815/2024-BABYLION-Backend.git">2024 덕성여자대학교 멋쟁이사자처럼 12기 합격자 조회</a> | **LikeLionDS**
-- <a href="https://github.com/20210815/DSFest_BE.git">2024 덕성여자대학교 근화제 "찬란"</a> | **찬란**
-- <a href="https://github.com/20210815/re_to_back_test.git">2024 여자화장실 리뷰 프로젝트</a> | **Afterglow**
-- <a href="https://github.com/20210815/GBFH_BE.git">2024 경기푸른미래관 어플리케이션 개발</a> | **구구단**
-- <a href="https://github.com/TeamViewMore">2024 멋쟁이사자처럼 중앙 해커톤 Poksin</a> | **poksin** | 데이트 폭력 증거 수집 | AI Server | 2024 어흥콘 참신상 대상, 베스트 회고상 🏆
-- <a href="https://github.com/Fortran-Pothole">2024 졸업 프로젝트 FORTRAN</a> | **FORTRAN** | AI를 통한 포트홀 검출과 사고 예방을 위한 시스템 | AI Server, Raspberry Pi, Web-socket | ICT 이브와 은상 🏆 | 한국정보처리학회 ACK 2024 정보처리학회논문지 논문 개제
+- <a href="https://github.com/team-beatbuddy/backend"> 국내 음악 베뉴 큐레이션 및 컨시어지 서비스</a> | BeatBuddy | BE
+- <a href="https://github.com/tocatdog/backend"> 2025 tocatdog 유기동물 입양 활성화를 위한 AI 기반 매칭 플랫폼</a> | 2025 생성형 AI · 공공데이터 창업경진대회 | BE
+- <a href="https://github.com/GBFH-APP/REAL_BE">2024 경기푸른미래관 어플리케이션 개발</a> | **구구단** | PO, BE
 - <a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_43_BC">[kakao x goorm] 2024 단풍톤 Carely BlockChain</a> | <a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_43_BE">[kakao x goorm] 2024 단풍톤 Carely BE</a> | **Carely** | 관계를 통해 간병인의 정신적 스트레스 완화와 간병 생활의 효율성을 높이기 위한 서비스 | BE, Blockchain | [kakao x goorm] 2024 단풍톤 본선 진출
+- <a href="https://github.com/Fortran-Pothole">2024 졸업 프로젝트 FORTRAN</a> | **FORTRAN** | AI를 통한 포트홀 검출과 사고 예방을 위한 시스템 | AI Server, Raspberry Pi, Web-socket | ICT 이브와 은상 🏆 | 한국정보처리학회 ACK 2024 정보처리학회논문지 논문 개제
+- <a href="https://github.com/TeamViewMore">2024 멋쟁이사자처럼 중앙 해커톤 Poksin</a> | **poksin** | 데이트 폭력 증거 수집 | AI Server | 2024 어흥콘 참신상 대상, 베스트 회고상 🏆
+- <a href="https://github.com/20210815/re_to_back_test.git">2024 여자화장실 리뷰 프로젝트</a> | **Afterglow**
+- <a href="https://github.com/20210815/DSFest_BE.git">2024 덕성여자대학교 근화제 "찬란"</a> | **찬란**
+- <a href="https://github.com/20210815/2024-BABYLION-Backend.git">2024 덕성여자대학교 멋쟁이사자처럼 12기 합격자 조회</a> | **LikeLionDS**
+- <a href="https://github.com/20210815/TogetherSeoul_back-end.git">2023-2 소프트웨어공학</a> | **TogetherSeoul** | 여행길 동행자 구하기
+- <a href="https://github.com/20210815/2023-CodeWithDS-03.git">2023 덕성여자대학교 제2회 연합 해커톤 CodeWithDuksung</a> | **DukXi** | 안전한 귀갓길
+- <a href="https://github.com/20210815/HealthBridge">2023 멋쟁이사자처럼 중앙 해커톤</a> | **HealthBridge** | 건강검진 진단 조언
+- <a href="https://github.com/20210815/2023-Herethon-5">2023 여기톤 : HERETHON</a> | **Let's make Mandalart**
+- <a href="https://github.com/20210815/diARy_server">2023 한이음 : ICT 멘토링</a> | **diARy** | AR기반 공간에 기록하는 나의 여행 노트
+
 
 <br>
 
